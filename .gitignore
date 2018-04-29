@@ -2,3 +2,5 @@ checkpoints/
 checkpoints-only-again/
 benchmark/
 ROLO_DATA.zip
+*.log
+
